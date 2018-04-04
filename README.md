@@ -41,7 +41,8 @@
     消费者：
     bin/kafka-console-consumer.sh --zookeeper 130.51.23.95:2181 --topic test --from-beginnin
     ```
-**参考：** 
-	- 理论   https://blog.csdn.net/tangdong3415/article/details/53432166
-	- 指令： https://www.cnblogs.com/dragkiss/p/5668019.html
-        - 集群安装： https://blog.csdn.net/zxy987872674/article/details/72466504
+    
+**参考：**   
+- 理论   https://blog.csdn.net/tangdong3415/article/details/53432166
+- 指令： https://www.cnblogs.com/dragkiss/p/5668019.html
+- 集群安装： https://blog.csdn.net/zxy987872674/article/details/72466504

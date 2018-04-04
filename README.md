@@ -44,4 +44,4 @@
 **参考：** 
 	- 理论   https://blog.csdn.net/tangdong3415/article/details/53432166
 	- 指令： https://www.cnblogs.com/dragkiss/p/5668019.html
-  - 集群安装： https://blog.csdn.net/zxy987872674/article/details/72466504
+        - 集群安装： https://blog.csdn.net/zxy987872674/article/details/72466504
